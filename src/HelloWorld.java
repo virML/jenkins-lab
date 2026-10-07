@@ -3,3 +3,4 @@ public class HelloWorld {
         System.out.println("Hello from Jenkins Poll SCM Automatic Build!");
     }
 }
+// automatic polling test
